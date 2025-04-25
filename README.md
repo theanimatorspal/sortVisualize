@@ -12,7 +12,7 @@
 
 ---
 
-Original Repo -> https://github.com/koiralasanskrit/sortVisualize
+Original Repo -> https://github.com/koiralasanskrit/sortVisualize (I forgot the password).
 
 ## 🧶 About
 
