@@ -1,5 +1,5 @@
 <h1 align="center">📊 sortVisualize</h1>
-<p align="center"><i>Sorting Algorithm Visualization – Graphics Mini Project (IOE, Pulchowk Campus)</i></p>
+<p align="center"><i>Sorting Algorithm Visualization – DSA Mini Project (IOE, Pulchowk Campus)</i></p>
 <p align="center"><b>Built with:</b> C++ 💻 | OpenGL 🎮 | ImGui 🎛️ | SDL2 ⚙️ | Fourier 🎧</p>
 <p align="center">
   <img src="https://img.shields.io/badge/build-chaotic-orange?style=flat-square&logo=cplusplus" />
@@ -11,6 +11,8 @@
 </p>
 
 ---
+
+Original Repo -> https://github.com/koiralasanskrit/sortVisualize
 
 ## 🧶 About
 
